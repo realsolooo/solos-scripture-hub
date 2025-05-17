@@ -3,9 +3,9 @@
 ]]
 local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 local Window = Rayfield:CreateWindow({
-    Name = "Solos Script Hub",
-    LoadingTitle = "Skids Hub",
-    LoadingSubtitle = "By Soloo",
+    Name = "Solo's FTAP Hub",
+    LoadingTitle = "Solo's FTAP Hub",
+    LoadingSubtitle = "discord.gg/solooo",
     Theme = "Amethyst",
     ConfigurationSaving = {
         Enabled = true,
@@ -16,8 +16,7 @@ local Window = Rayfield:CreateWindow({
     KeySettings = {
         Title = "Scripture",
         Subtitle = "Key System",
-        Note = "Join the discord: https://discord.gg/solooo
-        ",
+        Note = "Join the discord: https://discord.gg/aJRqSuEYXf",
         FileName = "TestKey",
         SaveKey = false,
         GrabKeyFromSite = false,
